@@ -5,8 +5,8 @@
 
 We continue to move forward under this slogan and act according to our principles. Our mission is to help businesses and customers feel more confident in the world of technology.
 
-We are creating, supporting and contributing to Open-Source software under [BDV Foundation](https://co.bdv.pw/). <br>
-If you have a question, just leave feedback here - feedback@bdv.pw. 
+We are creating, supporting and contributing to Open-Source software under [BDV Foundation](https://bdv.pw/). <br>
+If you have a question, just leave feedback here - nikita@bdv.pw. 
 
 ### Get Involved
 
