@@ -11,4 +11,3 @@ If you have a question, just leave feedback here - nikita@bdv.pw.
 ### Get Involved
 
 If you wanna contribute to our Open Source software - please contact us via jobs@bdv.pw.
-You can find more information about working with us [here](https://co.bdv.pw/join).
